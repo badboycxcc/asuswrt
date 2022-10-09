@@ -14,8 +14,8 @@ Set Up Environment(Tested in Fedora 8/9 and Ubuntu)
 		bison
 		gawk
 		flex
-		libstdc++6-4.4-dev
-		g++-4.4
+		libstdc++6-4.4-dev ！！！！
+		g++-4.4 ！！！
 		g++
 		git (or git-core)
 		gitk
@@ -29,15 +29,15 @@ Set Up Environment(Tested in Fedora 8/9 and Ubuntu)
 		intltool
 		sharutils
 		docbook-xsl-*
-		libstdc++5
+		libstdc++5 ！！！
 		texinfo
 		dos2unix (or tofrodos)
 		xsltproc
 
 		If you are using Ubuntu amd64, you may need to install 32-bit packages listed below.
-			libc6-i386
-			lib32stdc++6
-			lib32z1
+			libc6-i386 ！！！
+			lib32stdc++6 ！！！
+			lib32z1 ！！！
 
 	b. Fedora
 		sudo yum groupinstall "Development Tools"
